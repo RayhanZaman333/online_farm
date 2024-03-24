@@ -1,0 +1,22 @@
+{
+  "name": "nomex",
+  "version": "1.0.0",
+  "description": "NodeJS, ExpresJS, MongoDB Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayhanZaman333/online_farm.git"
+  },
+  "author": "Rayhan Zaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RayhanZaman333/online_farm/issues"
+  },
+  "homepage": "https://github.com/RayhanZaman333/online_farm#readme",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
