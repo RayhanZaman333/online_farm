@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/RayhanZaman333/online_farm#readme",
   "dependencies": {
-    "express": "^4.19.1"
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0"
   }
 }
